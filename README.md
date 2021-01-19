@@ -16,9 +16,10 @@ Ya sabiendo la intencionalidad de la web, a continuacion mencionar las caracteri
 
 En primer lugar y bastante obvio es la el sistema de control de versiones **GitHub**, la plataforma donde nos encontramos.
 En cuanto a las herramientas relacionanadas en el aspecto cliente de la web me he decantado por:
-    - **HTML5**
-    - **CSS3** 
-    - **BootStrap 5**
+
+- **HTML5**
+- **CSS3** 
+- **BootStrap 5**
  
 En cambio si hablamos de aquellas herramientas mas orientadas para entorno servidor, he decidido usar **DJango** el framework decodigo abierto escrito en Python.
 Si hablamos de gestion y tratamiento de datos MySql es mi opcion.
