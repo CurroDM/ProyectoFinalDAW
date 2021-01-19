@@ -1,6 +1,6 @@
 # Proyecto Final DAW
 ## Desarrollo de la aplicacion web - empresa: Drogeria Massip
-El proyecto se basara en la desarrollo completo de la pagina web de Drogeria Massip, empezado desde el principio, el disenio general de la web hasta el mantenimiento del servidor web en un equipo propio.
+El proyecto se basara en la desarrollo completo de la pagina web de Drogeria Massip, empezado desde el principio, el disenio general de la web hasta el mantenimiento del servidor web en un equipo propio. A parte de la propia web, tambien voy actualizar el logotipo de la empresa el cual aparecera en esta.
 
 En cuanto a cuales seran las caracteristicas recogidas por el proyecto, estas son bastantes simples. Empezar con sun funcion principal la cual es la venta online de distintos productos tales como:
 
