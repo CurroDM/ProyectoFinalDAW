@@ -12,6 +12,8 @@ En cuanto a cuales seran las caracteristicas recogidas por el proyecto, estas so
 - Cremas corporales.
 - Parafarmacia.
 
+En la web tambien tendras la opcion de registrarte y a su vez iniciar sesion. Como en la mayoria de webs donde puedes realizar compras online, esto sera un paso obligatorio.
+
 Ya sabiendo la intencionalidad de la web, a continuacion mencionar las caracteristicas tecnicas que acompaniaran al proyecto. En primer lugar hacer mencion aquellas herramientas que utilizare para el desarrollo de mi aplicacion:
 
 En primer lugar y bastante obvio es la el sistema de control de versiones **GitHub**, la plataforma donde nos encontramos.
@@ -22,5 +24,10 @@ En cuanto a las herramientas relacionanadas en el aspecto cliente de la web me h
 - **BootStrap 5**
  
 En cambio si hablamos de aquellas herramientas mas orientadas para entorno servidor, he decidido usar **DJango** el framework decodigo abierto escrito en Python.
-Si hablamos de gestion y tratamiento de datos MySql es mi opcion.
-Como ya he comentado anteriormente tengo la intencion no solo de desarrollar la aplicacion web de la empresa, tambien quiero proporcionarles el hosting con un equipo propio en casa.
+Como ya he comentado anteriormente tengo la intencion no solo de desarrollar la aplicacion web de la empresa, tambien quiero proporcionarles el hosting con un equipo propio en casa. Para ello hago uso de distintos tipos de software empezando por:
+
+- **Apache**, como software y herramienta de servidor web.
+- **MySql**, como solucion al almacenimiento y gestion de datos.
+- **MVware**, para la creacion de maquinas virtuales.
+- Una configuarion de **SMTP** y **POP** para el sistema de envio de correo.
+En conclusion estas seran todas las herramientas o tecnologias de las que hare uso para realizar completamente el proyecto.
