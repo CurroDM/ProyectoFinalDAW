@@ -30,5 +30,5 @@ Como ya he comentado anteriormente tengo la intención no solo de desarrollar la
 - **Apache**, como software y herramienta de servidor web.
 - **MySql**, como solucion al almacenimiento y gestión de datos.
 - **MVware**, para la creacion de máquinas virtuales.
-- Una configuración de **SMTP** y **POP** para el sistema de envío de correo.
+- Una configuración **SMTP** y **POP** para el sistema de envío de correo.
 En conclusión estas serán todas las herramientas o tecnologías de las que haré uso para realizar completamente el proyecto.
